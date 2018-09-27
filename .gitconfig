@@ -1,12 +1,5 @@
 [alias]
-  gs = git status 
-  ga = git add 
-  b = git branch 
-  gc = git commit
-  gd = git diff
-  go = git checkout 
-  gk = gitk --all&
-  gx = itx --all
+  gs = git status
   co = checkout
   ci = commit
   st = status
