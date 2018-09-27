@@ -1,0 +1,16 @@
+[alias]
+  gs = git status 
+  ga = git add 
+  b = git branch 
+  gc = git commit
+  gd = git diff
+  go = git checkout 
+  gk = gitk --all&
+  gx = itx --all
+  co = checkout
+  ci = commit
+  st = status
+  br = branch
+  hist = log --pretty=format:\"%h %ad | %s%d [%an]\" --graph --date=short
+  type = cat-file -t
+  dump = cat-file -p
